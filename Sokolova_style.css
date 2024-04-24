@@ -3,3 +3,19 @@
 body 
 {background-color: #f1c232; overflow-x:hidden;
 }
+
+/* Стили для шапки сайта */
+
+#zagolovok{font-family: 'Kurale', serif;color: #484848;}
+.flex-head{
+	display:flex;
+	flex-wrap: wrap;
+}
+h1 {
+position: absolute;
+top: 20%;
+left:45%;
+width: 100%;
+align:center;
+align: middle;
+}
