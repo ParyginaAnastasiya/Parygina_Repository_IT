@@ -107,3 +107,32 @@ nav a {
 h2{
 	text-align: center;
 }
+
+/* Стили для контента страницы */
+
+        
+.content p a {
+font-size: 18px;
+color:#000;
+letter-spacing: 1px;
+transition: .4s;
+align-items: center;
+}
+.content p a:hover {
+color: #000;
+text-decoration: underline;
+padding-top: 4px;
+font-weight: 700;
+}
+.img{
+	width: 35%;
+}
+.flex{
+	display: flex;
+}
+p{
+align: right;
+ margin: auto; 
+}
+
+
