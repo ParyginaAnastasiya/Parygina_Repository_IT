@@ -135,4 +135,17 @@ align: right;
  margin: auto; 
 }
 
+/* Стили для подвала сайта */
+
+footer{background:  white;
+display: flex;
+position: fixed;
+bottom: 0;
+width: 100%;
+padding: 10px;
+text-align: center;
+justify-content: center;
+align-items: center;
+} 
+
 
